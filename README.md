@@ -9,3 +9,7 @@ The goal is to build a Neural Network Model using [Pytorch](https://pytorch.org/
 # References
 - NVIDIA model: https://devblogs.nvidia.com/parallelforall/deep-learning-self-driving-cars/
 - Udacity Self-Driving Car Simulator: https://github.com/udacity/self-driving-car-sim
+#Video
+
+https://github.com/Hazem-A0/Udacity_self_driving_Car_project3/assets/109428270/d87618db-8600-48fa-890b-255fa1b66df1
+
